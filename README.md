@@ -28,8 +28,16 @@ where $s(x) = 0$ represents the switching surface.
 ##  Results & Visualization
 The simulation was executed via `NonLinMod5.mdl` (Variant 3) under various input influences ($g$).
 
+
+<img width="755" height="338" alt="image" src="https://github.com/user-attachments/assets/e07f1870-e9d5-43c1-b869-3afbac969a8a" />
+
+
 1. **Zero Input ($g=0$)**: Observation of pure sliding mode convergence on the phase plane.
 2. **Step Response ($g=1.5$)**: Analysis of the reaching phase and area of emergence for the sliding regime.
+
+
+<img width="662" height="274" alt="image" src="https://github.com/user-attachments/assets/830c82da-2019-4612-be4d-e6628947065e" />
+
 
 ### **Phase Trajectory Analysis**
 The phase portraits clearly demonstrate the **invariance property**—once the state reaches the manifold, the system dynamics become independent of the plant's linear parameters.
